@@ -1,4 +1,4 @@
-# WHATransformer-a-Graph-Transformer-of-Predicting-Student-Performance-in-a-Long-term-Collaborative-L
+# WHATransformer: a Graph Transformer of Predicting Student Performance in a Long-term Collaborative Learning Environment
 
 # Contributors
 - **Tianhao Peng**: pengtianhao@buaa.edu.cn
