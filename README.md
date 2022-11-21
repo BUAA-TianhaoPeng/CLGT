@@ -1,10 +1,13 @@
-# WHATransformer: a Graph Transformer of Predicting Student Performance in a Long-term Collaborative Learning Environment
+# CLGT: A Graph Transformer for Student Performance Prediction in Collaborative Learning
 
 # Contributors
 - **Tianhao Peng**: pengtianhao@buaa.edu.cn
-- **Yu Liang**: yliang@buaa.edu.cn 
+- **Yu Liang**: yuliang@bjut.edu.cn
 - **Pengrui Zhao**: zhaopengrui@buaa.edu.cn
-_State Key Laboratory of Software Development Environment Admire Group, School of Computer Science and Engineering, Beihang University_
+
+1: School of Computer Science and Engineering, Beihang University, Beijing, China
+
+2: Beijing Engineering Research Center for IoT Software and Systems, Beijing University of Technology, Beijing, China
 
 # Dataset
 The original commit and issue records are compressed in the path: `./Data/dataset.zip`. Please unzip it.
